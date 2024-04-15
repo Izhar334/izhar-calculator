@@ -1,2 +1,1 @@
-"# izhar-calculator" 
-"# izhar-calculator" 
+"# izhar-calculator"  
